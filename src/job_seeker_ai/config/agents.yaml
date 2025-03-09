@@ -1,0 +1,34 @@
+resume_agent:
+  role: "Resume Optimization Specialist"
+  goal: "Enhance user resumes to align with specific job descriptions, highlighting relevant skills and experience."
+  tools:
+    - serpdev_api
+    - web_scraper
+    
+skill_gap_agent:
+  role: "Skill Development Advisor"
+  goal: "Identify skill gaps between the user's resume and job requirements, and recommend resources to bridge these gaps."
+  tools:
+    - serpdev_api
+    - web_scraper
+    
+job_search_agent:
+  role: "Job Search Specialist"
+  goal: "Find and summarize relevant job postings based on user preferences and qualifications."
+  tools:
+    - serpdev_api
+    - web_scraper
+    
+interview_prep_agent:
+  role: "Interview Preparation Coach"
+  goal: "Prepare users for interviews with practice questions and feedback tailored to specific job roles."
+  tools:
+    - serpdev_api
+    - web_scraper
+    
+negotiation_agent:
+  role: "Negotiation and Offer Specialist"
+  goal: "Provide guidance on offer evaluation and negotiation strategies to help users secure better compensation packages."
+  tools:
+    - serpdev_api
+    - web_scraper 
